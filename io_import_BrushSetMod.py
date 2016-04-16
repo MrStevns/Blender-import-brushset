@@ -33,7 +33,7 @@ from bpy.props import *
 
 # addon description
 bl_info = {
-    "name": "import BrushSet",
+    "name": "import BrushSet-mod",
     "author": "Daniel Grauer (kromar)",
     "version": (1, 2, 1),
     "blender": (2, 7, 4),
